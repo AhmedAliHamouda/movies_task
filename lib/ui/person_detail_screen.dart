@@ -10,6 +10,9 @@ import 'package:cached_network_image/cached_network_image.dart';
 
 import 'widgets/person_detail_widget.dart';
 
+
+
+
 class PersonDetailScreen extends StatefulWidget {
   final int id;
 
